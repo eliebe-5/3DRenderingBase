@@ -1,0 +1,6 @@
+﻿  Scene_Manager.cpp
+c:\c++\openglbase\openglbase\managers\scene_manager.cpp(176): warning C4305: '=': truncation from 'double' to 'float'
+c:\c++\openglbase\openglbase\managers\scene_manager.cpp(177): warning C4305: '=': truncation from 'double' to 'float'
+c:\c++\openglbase\openglbase\managers\scene_manager.cpp(178): warning C4305: '=': truncation from 'double' to 'float'
+c:\c++\openglbase\openglbase\managers\scene_manager.cpp(179): warning C4305: '=': truncation from 'double' to 'float'
+  OpenGLbase.vcxproj -> c:\c++\OpenGLbase\Debug\OpenGLbase.exe
